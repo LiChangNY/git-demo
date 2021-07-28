@@ -1,4 +1,4 @@
 """
-I am an awesome script here just for demo purpose
+I am a third script here just for demo purpose
 """
-counter = 2
+counter = 3
