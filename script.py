@@ -1,4 +1,5 @@
 """
 I am an awesome script here just for demo purpose
 """
-counter = 3
+
+counter = 4
