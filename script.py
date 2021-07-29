@@ -2,4 +2,4 @@
 I am an awesome script here just for demo purpose
 """
 
-counter = 6
+counter = 7
